@@ -6,7 +6,7 @@ with open("README.md", "r", encoding="utf-8") as f:
 __version__ = "0.0.0"
 REPO_NAME = "Chest-Cancer-Detection-using-MLOps"
 AUTHOR_USER_NAME = "JeevanBiju"
-SRC_REPO = "Chest-Cancer-Classifier"
+SRC_REPO = "ChestCancerClassifier"
 AUTHOR_EMAIL = "jeevanbiju123@gmail.com"
 
 setuptools.setup(
