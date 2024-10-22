@@ -9,8 +9,8 @@ stages:
       size: 580
     - path: src/ChestCancerClassifier/pipeline/stage_01_data_ingestion.py
       hash: md5
-      md5: cb63ad565a1a0016f4066878ed47aac9
-      size: 932
+      md5: de9cca21827353b6f8b607b55331ab08
+      size: 926
     outs:
     - path: artifacts/data_ingestion/Chest-CT-Scan-data
       hash: md5
